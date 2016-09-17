@@ -4,5 +4,8 @@
 >For developers:
 >Please write the latest log on top
 
+###version 0.0.2
+add quote to view as "quote(name)" when mouse moves over
+
 ###version 0.0.1
 Initial the project
